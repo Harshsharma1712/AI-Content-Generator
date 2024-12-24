@@ -1,0 +1,2 @@
+# Google Gemini meets react
+This is a simple project that demonstrate the use of Google Gemini AI and React. The project is a simple web application that allows users to prompt a question and get an answer from Google Gemini AI. The project is built using React and Google Gemini API. 
